@@ -1,3 +1,5 @@
+<div id="title" align=center>
+  
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Zhihao's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=lizhihao2022&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizhihao2022)](https://github.com/anuraghazra/github-readme-stats)
